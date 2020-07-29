@@ -1,3 +1,34 @@
 body {
+    font-family: sans-serif;
     background-color: #efeeef;
 }
+
+.jumbotron {
+    width: auto;
+    text-align: center;
+    color: white;
+    background-color: rgb(22, 22, 75);
+   
+}
+
+.btn {
+    background-color: rgb(22, 22, 75);
+    border-color: rgb(22, 22, 75);
+}
+
+.card {
+    width: 1200px;
+}
+
+#article {
+    width: auto;
+}
+
+.searchHeader {
+    width: auto;
+}
+
+.topArtHeader {
+    width: auto;
+}
+
